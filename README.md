@@ -18,3 +18,18 @@ Make sure the following file is present in the same directory:
 ```text
 assistant.py
 ```
+## ⚙️ Technologies Used
+
+- Python  
+- SpeechRecognition  
+- pyttsx3  
+- Tkinter (for UI)  
+- PyAudio  
+
+## 📦 Required Libraries
+
+Install the required Python libraries before running the project:
+
+```bash
+pip install SpeechRecognition pyttsx3 pyaudio
+```
