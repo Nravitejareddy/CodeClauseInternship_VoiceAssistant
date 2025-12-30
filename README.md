@@ -33,3 +33,16 @@ Install the required Python libraries before running the project:
 ```bash
 pip install SpeechRecognition pyttsx3 pyaudio
 ```
+## ⚠️ Note
+
+On some systems, **PyAudio** may require additional setup depending on your operating system.
+
+## ▶️ How to Run
+
+1. Open **Command Prompt** / **Terminal**
+2. Navigate to the project directory
+3. Run the following command:
+
+```bash
+python assistant.py
+```
