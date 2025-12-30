@@ -46,3 +46,39 @@ On some systems, **PyAudio** may require additional setup depending on your oper
 ```bash
 python assistant.py
 ```
+## 📸 Screenshots
+
+### 🔹 AI Knows Its Creator
+<p align="center">
+  <img src="screenshots/ss1.png" alt="AI recognizing its creator">
+</p>
+
+### 🔹 Weather Information
+<p align="center">
+  <img src="screenshots/ss2.png" alt="Weather information output">
+</p>
+
+### 🔹 Joke Generation
+<p align="center">
+  <img src="screenshots/ss3.png" alt="Joke generation">
+</p>
+
+### 🔹 Opening YouTube & Websites
+<p align="center">
+  <img src="screenshots/ss4.png" alt="Opening YouTube and websites">
+</p>
+
+### 🔹 Websites Opened in Chrome
+<p align="center">
+  <img src="screenshots/ss5.png" alt="Chrome tabs opened">
+</p>
+
+### 🔹 Wikipedia Search
+<p align="center">
+  <img src="screenshots/ss6.png" alt="Wikipedia search">
+</p>
+
+### 🔹 AI Topic Search in Chrome
+<p align="center">
+  <img src="screenshots/ss7.png" alt="AI topic search in browser">
+</p>
